@@ -9,3 +9,5 @@ mv ~/Downloads ~/$GOOGLE_DRIVE_FOLDER_NAME
 
 # Renaming folder back to Downloads
 mv ~/$GOOGLE_DRIVE_FOLDER_NAME ~/Downloads
+
+echo "Very serious feature"
